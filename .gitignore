@@ -73,3 +73,5 @@ env/
 *.sln
 *.swp
 .DS_Store
+
+.venv
